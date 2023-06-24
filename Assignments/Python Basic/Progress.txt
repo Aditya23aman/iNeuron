@@ -2,4 +2,4 @@ First 6 are lost but submitted and graded already.
 7th - June 15. Regex 22 Questions.
 8th - June 15. PyInputPlus 7 Questions
 9th - June 23. Read Write 9 Questions 
-10th - June 24. Shutil module 5 questions. Q5. is not entirely correct 
+10th - June 24. Shutil module 5 questions. Q5. is not entirely correct // improved 
