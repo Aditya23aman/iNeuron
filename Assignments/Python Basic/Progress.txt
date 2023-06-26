@@ -3,3 +3,4 @@ First 6 are lost but submitted and graded already.
 8th - June 15. PyInputPlus 7 Questions
 9th - June 23. Read Write 9 Questions 
 10th - June 24. Shutil module 5 questions. Q5. is not entirely correct // improved 
+.. - June 26 Logging module 
